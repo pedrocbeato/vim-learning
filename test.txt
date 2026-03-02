@@ -1,6 +1,3 @@
 This is a sentence
 
-
-
-
-nova linha
+nova linha, ola e mais alguma coisa
